@@ -1,0 +1,5 @@
+Shortest distance matrix
+0 -5 -1 0 
+INF 0 4 5 
+INF 999999995 0 1 
+INF 999999995 999999999 0 
